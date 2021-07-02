@@ -13,6 +13,7 @@ from colorama import init
 from colorama import Fore, Style
 
 
+# Logging system by k1tsukendo #
 class kitsulogger():
 	@staticmethod
 	def set_default_log_level(level):
